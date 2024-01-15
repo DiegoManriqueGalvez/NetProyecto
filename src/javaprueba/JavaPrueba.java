@@ -6,7 +6,7 @@ package javaprueba;
 
 /**
  *
- * @author Alumno
+ * @author DiegoManriqueGalvez
  */
 public class JavaPrueba {
 
@@ -17,6 +17,7 @@ public class JavaPrueba {
         // TODO code application logic here
         //HOLA BUENAS
         //QUE TAL
+        //ADIOS
     }
     
 }
